@@ -5,10 +5,7 @@ Markdown Language Editor based on Spring Boot.
 
 - Core Framework：SpringBoot
 - ORM framework: MyBatis
-- MyBatis tools: MyBatis Mapper
 - MVC framework: Spring MVC
-- Template engine: Freemarker
-- Compilation helper plugin: Lombok
 - CSS framework: BootStrap 4.0
 - Markdown Editor: Editor.md
 - Database: MySQL
